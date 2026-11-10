@@ -1,0 +1,1 @@
+{"name":"本当にお得？","short_name":"本当にお得？","description":"商品単価と割引を比較する無料アプリ","start_url":"./","scope":"./","display":"standalone","background_color":"#f4f6f3","theme_color":"#172d29","icons":[{"src":"icon.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},{"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}]}
